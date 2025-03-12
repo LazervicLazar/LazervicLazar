@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Lazar Lazarevic!  
 
-🚀 **Computer Engineering & Physics Minor | Cybersecurity Scholar | Embedded Systems Enthusiast**  
+🚀 **Computer Engineering & Physics Minor | Embedded Systems Enthusiast**  
 
 ## 🔧 About Me  
 I'm a **Computer Engineering** major with a **Physics minor** at the **University of South Florida**. My passion lies in **embedded systems, hardware security, and quantum computing**. I enjoy building **custom electronics, cybersecurity tools, and real-time embedded applications**.  
