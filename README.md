@@ -3,7 +3,7 @@
 🚀 **Computer Engineering & Physics Minor | Cybersecurity Scholar | Embedded Systems Enthusiast**  
 
 ## 🔧 About Me  
-I'm a **Computer Engineering** major with a **Physics minor** at the **University of South Florida** and a member of the **SFS CyberCorps program**. My passion lies in **embedded systems, hardware security, and quantum computing**. I enjoy building **custom electronics, cybersecurity tools, and real-time embedded applications**.  
+I'm a **Computer Engineering** major with a **Physics minor** at the **University of South Florida**. My passion lies in **embedded systems, hardware security, and quantum computing**. I enjoy building **custom electronics, cybersecurity tools, and real-time embedded applications**.  
 
 💡 **Key Interests:**  
 - Embedded Systems & IoT (ESP32, Raspberry Pi, PCB Design)  
